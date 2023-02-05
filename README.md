@@ -6,7 +6,7 @@ This app allows the user to type in and adjust facts about themselves, and when 
 
 ### App Walk-though
 
- <img src="codepathprework.gif" width=200><br> 
+ <img src="codepathpreworkfinal2.gif" width=200><br> 
 
 ### Required Features
 
